@@ -1,0 +1,21 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String",
+            "fieldValidateRules": []
+        },
+        {
+            "fieldName": "description",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20180309072829",
+    "dto": "no",
+    "service": "serviceImpl",
+    "entityTableName": "bracing",
+    "jpaMetamodelFiltering": false,
+    "pagination": "pagination"
+}
